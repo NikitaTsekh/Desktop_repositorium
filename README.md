@@ -1,4 +1,3 @@
-# hello-world
-This is my first repository, test one
 
-
+This is my repository with different notebooks
+1.Linear Regression from scracth: self-made LR
