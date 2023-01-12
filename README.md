@@ -6,3 +6,6 @@ This is my repository with different notebooks
 
 
 2.Logistic regression from scratch: selft-made. Without classes, using pandas.
+
+
+3.Gradient Boosting from scratch. Self-made GB but in very bad manner, just for understanding of basic concepts
