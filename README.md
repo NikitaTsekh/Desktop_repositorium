@@ -12,4 +12,6 @@ This is my repository with different notebooks
 
 
 
-4.Notebook from Middle DS Interview on YouTube
+4.Decision tree classifier from scratch. Self-made DTC , under construction.
+
+5.Notebook from Middle DS Interview on YouTube
