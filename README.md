@@ -9,3 +9,7 @@ This is my repository with different notebooks
 
 
 3.Gradient Boosting from scratch. Self-made GB but in very bad manner, just for understanding of basic concepts
+
+
+
+4.Notebook from Middle DS Interview on YouTube
