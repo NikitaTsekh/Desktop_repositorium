@@ -21,3 +21,4 @@ This is my repository with different notebooks
 
 8.Classification metrics - Notebook where we manually code classification metrics.
 
+9.Regression metrics - Notebook where we manually code regression metrics.
