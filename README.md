@@ -25,3 +25,6 @@ This is my repository with different notebooks
 
 
 10.Theme 2. Generators and MonteCarlo - File which was used for Gl.Mihaylov lesson #2
+
+
+11. 4_M_Carlo,5-hypotheses_and_p_value - gleb M tasks
