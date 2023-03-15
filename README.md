@@ -1,4 +1,4 @@
-
+9
 This is my repository with different notebooks
 
 
@@ -19,12 +19,8 @@ This is my repository with different notebooks
 
 7.Notebook from Middle DS Interview on YouTube
 
-8.Classification metrics - Notebook where we manually code classification metrics.
 
-9.Regression metrics - Notebook where we manually code regression metrics.
+8.Theme 2. Generators and MonteCarlo - File which was used for Gl.Mihaylov lesson #2
 
-
-10.Theme 2. Generators and MonteCarlo - File which was used for Gl.Mihaylov lesson #2
-
-11.4_M_Carlo,5-hypotheses_and_p_value - gleb M tasks
-12. 6 lesson
+9.4_M_Carlo,5-hypotheses_and_p_value - gleb M tasks
+10. 6 lesson
