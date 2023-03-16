@@ -30,3 +30,4 @@ def binary_search(input_:list,el_to_find:int)-> int:
 
 
 
+#log^n checkings are needed. The time complexity of binary search algorithm is O(log n), where n is the size of the input array.
