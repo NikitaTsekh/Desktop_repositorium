@@ -9,23 +9,23 @@ def binary_search(input_:list,el_to_find:int)-> int:
     input =input_.copy()
     input=sorted(input)
 
-    low=input[0]
+    low=0
     high=len(input)-1
     if el_to_find == low:
         return 0
     elif el_to_find == high:
         return (len(input)-1)
     else:
-        while high>low:
+        while high>=low:
             position=(high+low)//2
             if el_to_find==input[position]:
                 return position
             elif el_to_find < input[position]:
-                high = (high+low)//2
+                high = position-1
             else:
                 low=position+1
 
-            print('high',high,'low',low)
+
 
 
 
